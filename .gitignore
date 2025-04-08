@@ -21,3 +21,7 @@ Thumbs.db
 
 # Folders
 /PDFs/
+/Visual Studio files/
+
+# VSCode Workspace
+*.code-workspace
